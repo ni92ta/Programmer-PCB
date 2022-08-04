@@ -6,8 +6,8 @@ The schematic of the adapter is shown on the screenshot below.
 
 The PCB is made on a 1mm thick single sided foiled textolite. The mounting of the components is single sided, into the holes. There are wire jumpers on the board.
 The printed circuit board is shown in the screenshot below, dimensions 50x50mm.
-![image](https://user-images.githubusercontent.com/91215296/182666395-08e8d794-1d0b-4079-8ed4-9d6382b5bd02.png)
+![image](https://user-images.githubusercontent.com/91215296/182883868-c82bff86-2651-4202-9b10-f739d47c3706.png)
 
 3D view of the PCB:
 
-![image](https://user-images.githubusercontent.com/91215296/182667248-d81f4394-bf58-4925-9051-e666e2231a5a.png)
+![image](https://user-images.githubusercontent.com/91215296/182884034-05deb6a9-eefc-40b7-8661-fb002c0f1b12.png)
